@@ -15,11 +15,11 @@ API_HASH = getenv("API_HASH")
 BOT_TOKEN = getenv("BOT_TOKEN")
 BOT_ID = getenv("BOT_ID")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","btw_deva")
+OWNER_USERNAME = getenv("OWNER_USERNAME","crush_hu_tera")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "DEVA_MUSICBOT")
+BOT_USERNAME = getenv("BOT_USERNAME" , "destinyy_music_bot")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "𝐒𝐈𝐓𝐀𝐑𝐀")
+BOT_NAME = getenv("BOT_NAME" , "🦋⃟𝘿𝙚𝙨𝙩𝙞𝙣𝙮~")
 # ---------------------------------------------------------
 ASSUSERNAME = getenv("ASSUSERNAME" , "Sitara_assistant")
 # ---------------------------------------------------------
@@ -55,10 +55,10 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-SOURCE = getenv("SOURCE", "https://github.com/hide-sudo/DEVACLONE")
+SOURCE = getenv("SOURCE", "https://github.com/Suraj08832/clonerbot")
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/hide-sudo/DEVACLONE",
+    "https://github.com/Suraj08832/clonerbot",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
@@ -73,9 +73,9 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/BotzEmpire")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/BotzEmpireSupport")
-CHAT = getenv("CHAT", "https://t.me/+MG2n8W4ZpuQwN2Q1")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Drishtarishi_community")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Drishtarishi_community")
+CHAT = getenv("CHAT", "https://t.me/+OJjQ99N8Sd02NzQ1")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
